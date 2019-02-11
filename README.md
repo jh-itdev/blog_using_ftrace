@@ -1,5 +1,7 @@
 # ITDev Blog: Using FTrace Example Source Code
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/787aa44a5aa4473b9dccb9c05241951c)](https://app.codacy.com/app/jh-itdev/blog_using_ftrace?utm_source=github.com&utm_medium=referral&utm_content=jh-itdev/blog_using_ftrace&utm_campaign=Badge_Grade_Settings)
+
 Source code for a blog about using ftrace to debug an imaginary driver bug.
 
 NOTE: This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY as per the license,
